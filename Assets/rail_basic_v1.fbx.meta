@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 5bc8326de6642ce4fab43a29d6531348
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube.000
+    100002: Cube.002
+    100004: Lamp
+    100006: landscape-track-1-curve
+    100008: landscape-track-1-diamond
+    100010: landscape-track-1-platform
+    100012: landscape-track-1-platform.001
+    100014: landscape-track-1-rail-crossing
+    100016: landscape-track-1-road-bridge
+    100018: landscape-track-1-road-crossing
+    100020: landscape-track-1-straight
+    100022: landscape-track-1-tjunction
+    100024: landscape-track-1-tunnel-entry
+    100026: landscape-track-1-tunnel-segment
+    100028: landscape-track-1-y-right
+    100030: landscape-track-1-y-right.001
+    100032: //RootNode
+    100034: the eye
+    100036: train_commuter_1.001
+    100038: train_commuter_2.001
+    400000: Cube.000
+    400002: Cube.002
+    400004: Lamp
+    400006: landscape-track-1-curve
+    400008: landscape-track-1-diamond
+    400010: landscape-track-1-platform
+    400012: landscape-track-1-platform.001
+    400014: landscape-track-1-rail-crossing
+    400016: landscape-track-1-road-bridge
+    400018: landscape-track-1-road-crossing
+    400020: landscape-track-1-straight
+    400022: landscape-track-1-tjunction
+    400024: landscape-track-1-tunnel-entry
+    400026: landscape-track-1-tunnel-segment
+    400028: landscape-track-1-y-right
+    400030: landscape-track-1-y-right.001
+    400032: //RootNode
+    400034: the eye
+    400036: train_commuter_1.001
+    400038: train_commuter_2.001
+    2000000: the eye
+    2100000: basecolor
+    2100002: grey_mid
+    2100004: concrete
+    2100006: dark_grey
+    2100008: material_train.red
+    2100010: material_train.white
+    2100012: windows
+    2100014: lights
+    2100016: lights.red
+    2300000: Cube.000
+    2300002: Cube.002
+    2300004: landscape-track-1-curve
+    2300006: landscape-track-1-diamond
+    2300008: landscape-track-1-platform
+    2300010: landscape-track-1-platform.001
+    2300012: landscape-track-1-rail-crossing
+    2300014: landscape-track-1-road-bridge
+    2300016: landscape-track-1-road-crossing
+    2300018: landscape-track-1-straight
+    2300020: landscape-track-1-tjunction
+    2300022: landscape-track-1-tunnel-entry
+    2300024: landscape-track-1-tunnel-segment
+    2300026: landscape-track-1-y-right
+    2300028: landscape-track-1-y-right.001
+    2300030: train_commuter_1.001
+    2300032: train_commuter_2.001
+    3300000: Cube.000
+    3300002: Cube.002
+    3300004: landscape-track-1-curve
+    3300006: landscape-track-1-diamond
+    3300008: landscape-track-1-platform
+    3300010: landscape-track-1-platform.001
+    3300012: landscape-track-1-rail-crossing
+    3300014: landscape-track-1-road-bridge
+    3300016: landscape-track-1-road-crossing
+    3300018: landscape-track-1-straight
+    3300020: landscape-track-1-tjunction
+    3300022: landscape-track-1-tunnel-entry
+    3300024: landscape-track-1-tunnel-segment
+    3300026: landscape-track-1-y-right
+    3300028: landscape-track-1-y-right.001
+    3300030: train_commuter_1.001
+    3300032: train_commuter_2.001
+    4300000: landscape-track-1-platform.001
+    4300002: landscape-track-1-road-bridge
+    4300004: Cube.002
+    4300006: Cube.000
+    4300008: train_commuter_2.001
+    4300010: train_commuter_1.001
+    4300012: landscape-track-1-tunnel-segment
+    4300014: landscape-track-1-platform
+    4300016: landscape-track-1-y-right.001
+    4300018: landscape-track-1-y-right
+    4300020: landscape-track-1-diamond
+    4300022: landscape-track-1-rail-crossing
+    4300024: landscape-track-1-straight
+    4300026: landscape-track-1-tunnel-entry
+    4300028: landscape-track-1-curve
+    4300030: landscape-track-1-tjunction
+    4300032: landscape-track-1-road-crossing
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
